@@ -1,0 +1,1 @@
+Paste omnisharp.json and NuGet into Unity project root to get C# code warnings
